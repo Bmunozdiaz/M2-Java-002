@@ -1,4 +1,5 @@
 CONTEXTO
+
 Durante los últimos meses, las compras en línea han tenido un aumento significativo debido al avance
 tecnológico, las restricciones sanitarias impuestas y a los cambios en las formas de vida. Esto aplica
 para muchos sectores productivos, usando diversos tipos de medios para efectuar una transacción,
@@ -9,6 +10,7 @@ que marcará la manera en la cual se adquieren bienes y servicios, en especial p
 en etapas iniciales de desarrollo.
 
 PROBLEMA
+
 La empresa “Te lo Vendo” es un emprendimiento de un grupo de jóvenes, quienes necesitan vender sus
 productos en línea. Actualmente toman sus pedidos vía telefónica y a través del correo electrónico. Al
 no existir un sistema centralizado para los pedidos, es complejo tener control oportuno de las entregas,
