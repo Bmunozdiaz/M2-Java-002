@@ -7,7 +7,7 @@
 
 header{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
     color: rgb(0, 0, 0);
     padding: 10px 0;
     text-align: center;
@@ -28,8 +28,8 @@ section{
 }
 
 .algo{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: turquoise;
+    font-family: 'Verdana', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(198, 173, 9);
     padding: 10px 0;
     text-align: left;
 }
