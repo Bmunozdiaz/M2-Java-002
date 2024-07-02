@@ -28,8 +28,8 @@ section{
 }
 
 .algo{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: turquoise;
+    font-family: 'Verdana', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(198, 173, 9);
     padding: 10px 0;
     text-align: left;
 }
