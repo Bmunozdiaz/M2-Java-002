@@ -31,4 +31,4 @@ rendimiento de la empresa, considerando la cantidad de clientes, y la demanda de
 imprescindible mantener comunicación con los encargados de entregar los pedidos, y darles la
 posibilidad de realizar todas sus actividades teniendo conectividad a través de dispositivos móviles.
 
-Integrantes: Ariel Alfaro Fuenzalida - Bastián Muñoz Díaz - Bastian Espinoza Arancibia - Rodrigo González Campos
+Integrantes: Ariel Alfaro Fuenzalida (NeoAriel-Code) - Bastián Muñoz Díaz (Bmunoz) - Bastian Espinoza Arancibia (Bastignacio) - Rodrigo González Campos (Skeleton997)
